@@ -97,7 +97,7 @@ a.active,a:hover{
     background-size: cover;
     color:azure;
     height: 400px;
-    background-image: url("./img/fondo.jpg");
+    background-image: url(./img/fondo.jpg);
     width: 100%;
     animation: movimiento 10s infinite linear alternate;
 }
