@@ -245,6 +245,10 @@ footer div{
  text-align: justify;
 }
 @media screen and (max-width:550px){
+    .portada{
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
     .portada h1{
       font-size: 24px;
       padding: 10px;
